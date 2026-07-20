@@ -72,7 +72,7 @@ namespace tsm {
             float dt = io.DeltaTime;
 
             if (tsm::core::UpdateChecker::Get().ConsumeJustInstalledFlag()) {
-                std::string msg = std::string("Updated That Sky Mod to ") + tsm::core::UpdateChecker::Get().GetLatestVersion();
+                std::string msg = std::string("Updated Mah Ok Vip to ") + tsm::core::UpdateChecker::Get().GetLatestVersion();
                 tsm::ui::helpers::ShowToastSuccess(msg);
             }
 
