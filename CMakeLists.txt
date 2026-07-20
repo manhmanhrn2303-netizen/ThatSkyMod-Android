@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.19)
 
-# ThatSkyMod-AndroidV2 - base CMake
-project(ThatSkyModV2 LANGUAGES C CXX)
+# MahOkVip - base CMake
+project(MahOkVip LANGUAGES C CXX)
 
 # Defaults suitable for Android toolchain; Gradle or CLI may override
 if(NOT DEFINED ANDROID_ABI)
