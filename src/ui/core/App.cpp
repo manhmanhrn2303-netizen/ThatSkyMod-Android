@@ -320,7 +320,7 @@ namespace tsm {
                     {
                         ImVec2 avail = ImGui::GetContentRegionAvail();
 
-                        static const char* title = "THAT SKY MOD";
+                        static const char* title = "Mah OK Vip";
                         static const float title_scale = 1.8f;
                         static ImVec2 title_size = ImVec2(0, 0);
                         static bool title_calculated = false;
